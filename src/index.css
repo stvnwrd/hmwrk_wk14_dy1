@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+h4 {
+  color: blue;
+  font-size: 16px;
+}
+
+h5 {
+  display: inline;
+}
+
+.filmBox {
+  background-color: lightslategrey;
+  width: 400px;
+}
+
+
+.filmList {
+  background-color: #cfd4db;
+}
+
+
+.filmTitle {
+  display: inline;
+}
+
+img {
+  width: 20px;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+}
